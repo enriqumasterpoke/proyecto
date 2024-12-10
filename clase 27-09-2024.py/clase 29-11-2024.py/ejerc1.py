@@ -25,5 +25,5 @@ if es_triangulo(lado1,lado2,lado3):
 else:
     print ("no es un triangulo")
 
-if _name_=="_main_":
+if _name_== "_main_":
     main()
